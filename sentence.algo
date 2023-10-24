@@ -1,0 +1,16 @@
+ALGORITHM Sentence
+VAR
+   count_senteces_lengh,count_number_of_words,count_number_of_vowels:INTEGER
+   text_senteces :STRING;
+
+BEGIN 
+
+read(text_senteces)
+WHILE(text_senteces)
+
+
+
+
+
+END_WHILE
+END 
